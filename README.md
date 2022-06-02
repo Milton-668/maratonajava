@@ -1,2 +1,2 @@
 # maratonajava
-Projeto de estudos relacionados a maratona devdojo
+Projeto de estudos relacionados a stack Java
